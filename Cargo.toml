@@ -1,0 +1,11 @@
+[package]
+name = "static-files"
+version = "0.0.0"
+
+edition = "2021"
+publish = false
+
+
+[dependencies]
+rocket = { version = "0.5.0-rc.2"}
+serde_json = "1.0.91"
